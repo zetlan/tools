@@ -1,0 +1,7 @@
+brew "gh"
+brew "postgresql@16"
+
+# For Python:
+brew "pyenv"
+brew "pyenv-virtualenv"
+# Python itself will be installed via pyenv.
