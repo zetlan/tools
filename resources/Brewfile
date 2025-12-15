@@ -5,3 +5,8 @@ brew "postgresql@16"
 brew "pyenv"
 brew "pyenv-virtualenv"
 # Python itself will be installed via pyenv.
+
+cask "insomnia"
+cask "corretto"
+cask "dbeaver-community"
+brew "maven"
